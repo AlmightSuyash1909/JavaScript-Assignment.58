@@ -1,0 +1,22 @@
+body{
+    background-color:rgba(133, 255, 214, 0.425)
+}
+.container{
+    max-width: 1300px;
+    margin:  0 auto;
+    padding: 0 2rem
+}
+h1{
+    text-align: center;
+}
+.boxes{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 3rem;
+}
+.box{
+    width:2rem;
+    padding:0.2rem 1rem;
+    text-align: center;
+    border: 2px solid black;
+}
